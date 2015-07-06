@@ -1,5 +1,4 @@
 import sys
-from permutations_of_a_string import get_perms
 
 calls = []
 
@@ -23,5 +22,5 @@ def pretty_locals(arg):
 def print_calls():
 	for call in calls:
 		ret = eval(call)
-		temp = call + "=" + repr(ret)
-		open('print_calls.txt','a').write(temp + '\n')
+		temp = call + "=" + repr(ret)	
+		open('print_calls.txt','a').write(temp + '\n')		
