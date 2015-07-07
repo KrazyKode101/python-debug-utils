@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# See instructions at line 124 and fill in the functions at 60 and 82
 import sys
 import copy
 
@@ -57,12 +56,11 @@ the_state     = None
 the_diff      = None
 the_input     = None
 
-# FILL IN FROM YOUR SOLUTION IN THE PREVIOUS EXERCISE
 def trace_fetch_state(frame, event, arg):
     global the_line
     global the_iteration
     global the_state
-    # COPY YOUR CODE HERE
+    
     line_no = frame.f_lineno
     
     if line_no not in trace_fetch_state.store:
@@ -89,18 +87,15 @@ def get_state(input, line, iteration):
     
     return the_state
 
-# FILL IN FROM YOUR SOLUTION IN THE PREVIOUS EXERCISE
 def trace_apply_diff(frame, event, arg):
     global the_line
     global the_diff
     global the_iteration
-    # COPY YOUR CODE HERE
     
     global the_line
     global the_iteration
     global the_diff
 
-    # YOUR CODE HERE
     line_no = frame.f_lineno
     
     if line_no not in trace_apply_diff.store:
@@ -147,13 +142,9 @@ def auto_cause_chain(locations):
     print "The program was started with", repr(html_fail)
     
     for (line, iteration) in locations:
-
-        # IMPLEMENT THIS !!!
+        
         # Put the state of variables at the line and iteration
         # for the passing and the failing runs in the following variables.
-        # HINT: you can use the variables html_pass and html_fail,
-        # and the function you developed earlier - get_state
-        # to achieve that.
         state_pass = get_state(html_pass,line,iteration)       
         state_fail = get_state(html_fail,line,iteration)
     
