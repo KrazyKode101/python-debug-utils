@@ -81,6 +81,7 @@ def get_state(input, line, iteration):
     the_line      = line
     the_iteration = iteration
     trace_fetch_state.store = {}
+    
     sys.settrace(trace_fetch_state)
     y = remove_html_markup(input)
     sys.settrace(None)
@@ -88,11 +89,7 @@ def get_state(input, line, iteration):
     return the_state
 
 def trace_apply_diff(frame, event, arg):
-    global the_line
-    global the_diff
-    global the_iteration
-    
-    global the_line
+    global the_line    
     global the_iteration
     global the_diff
 
@@ -110,22 +107,17 @@ def trace_apply_diff(frame, event, arg):
 # Testing function: Call remove_html_output, stop at THE_LINE/THE_ITERATION, 
 # and apply the diffs in DIFFS at THE_LINE
 def test(diffs):
+	global the_line
+    global the_iteration
     global the_diff
     global the_input
-    global the_line
-    global the_iteration
-
-    line      = the_line
-    iteration = the_iteration
-    
+   
     the_diff = diffs
     trace_apply_diff.store = {}
+
     sys.settrace(trace_apply_diff)
     y = remove_html_markup(the_input)
     sys.settrace(None)
-
-    the_line      = line
-    the_iteration = iteration
 
     if y.find('<') == -1:
         return "PASS"
