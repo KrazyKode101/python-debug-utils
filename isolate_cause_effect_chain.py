@@ -107,7 +107,7 @@ def trace_apply_diff(frame, event, arg):
 # Testing function: Call remove_html_output, stop at THE_LINE/THE_ITERATION, 
 # and apply the diffs in DIFFS at THE_LINE
 def test(diffs):
-	global the_line
+    global the_line
     global the_iteration
     global the_diff
     global the_input
