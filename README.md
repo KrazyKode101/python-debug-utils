@@ -1,6 +1,7 @@
 # debug_utils
 set of common debug utils for debugging python programs
 - makes use of python's sys.settrace() lib
+- gdb type debugger for python programs
 - record running time "function call value and return value"
 - line coverage: trace the running time filename:lineno stack
 - dynamic trace: trace the running time code trace
