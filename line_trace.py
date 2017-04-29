@@ -2,7 +2,7 @@ import sys
 
 coverage = {}
 
-def line_coverage(frame,event,arg):
+def trace_code(frame,event,arg):
 	if event == 'line':
 		global coverage
 		filename = frame.f_code.co_filename
@@ -13,10 +13,10 @@ def line_coverage(frame,event,arg):
 
 		coverage[filename].add(lineno)
 
-	return line_coverage
+	return trace_code
 
 def print_coverage():
-	output = open('line_coverage.txt','w')
+	output = open('line_trace.txt','w')
 	for filename in coverage.keys():
 		lines = open(filename,'r').readlines()
 		count = 1
