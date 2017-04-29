@@ -1,0 +1,377 @@
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	5		towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	6		print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
+.\towerOfHanoi.py	7		towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
+.\towerOfHanoi.py	2		if noOfDisks <= 0:
+.\towerOfHanoi.py	3			return
+.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return.\towerOfHanoi.py	8		return

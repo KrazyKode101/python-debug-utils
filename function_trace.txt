@@ -1,0 +1,126 @@
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='B',srcRod='A',noOfDisks='5'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='C',srcRod='A',noOfDisks='4'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='B',srcRod='A',noOfDisks='3'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='C',srcRod='A',noOfDisks='2'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='B',srcRod='A',noOfDisks='1'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='C',srcRod='A',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='A',srcRod='B',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='A',srcRod='C',noOfDisks='1'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='A',auxRod='B',srcRod='C',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='C',srcRod='A',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='A',srcRod='B',noOfDisks='2'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='A',auxRod='C',srcRod='B',noOfDisks='1'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='A',srcRod='B',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='A',auxRod='B',srcRod='C',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='B',srcRod='A',noOfDisks='1'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='C',srcRod='A',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='A',srcRod='B',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='A',srcRod='C',noOfDisks='3'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='A',auxRod='B',srcRod='C',noOfDisks='2'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='A',srcRod='C',noOfDisks='1'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='A',auxRod='B',srcRod='C',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='C',srcRod='A',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='A',auxRod='C',srcRod='B',noOfDisks='1'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='A',srcRod='B',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='A',auxRod='B',srcRod='C',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='C',srcRod='A',noOfDisks='2'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='B',srcRod='A',noOfDisks='1'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='C',srcRod='A',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='A',srcRod='B',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='A',srcRod='C',noOfDisks='1'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='A',auxRod='B',srcRod='C',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='C',srcRod='A',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='A',srcRod='B',noOfDisks='4'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='A',auxRod='C',srcRod='B',noOfDisks='3'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='A',srcRod='B',noOfDisks='2'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='A',auxRod='C',srcRod='B',noOfDisks='1'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='A',srcRod='B',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='A',auxRod='B',srcRod='C',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='B',srcRod='A',noOfDisks='1'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='C',srcRod='A',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='A',srcRod='B',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='A',auxRod='B',srcRod='C',noOfDisks='2'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='A',srcRod='C',noOfDisks='1'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='A',auxRod='B',srcRod='C',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='C',srcRod='A',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='A',auxRod='C',srcRod='B',noOfDisks='1'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='A',srcRod='B',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='A',auxRod='B',srcRod='C',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='B',srcRod='A',noOfDisks='3'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='C',srcRod='A',noOfDisks='2'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='B',srcRod='A',noOfDisks='1'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='C',srcRod='A',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='A',srcRod='B',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='A',srcRod='C',noOfDisks='1'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='A',auxRod='B',srcRod='C',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='C',srcRod='A',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='A',srcRod='B',noOfDisks='2'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='A',auxRod='C',srcRod='B',noOfDisks='1'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='A',srcRod='B',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='A',auxRod='B',srcRod='C',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='B',srcRod='A',noOfDisks='1'
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='B',auxRod='C',srcRod='A',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:call :towerOfHanoi:destRod='C',auxRod='A',srcRod='B',noOfDisks='0'
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
+.\towerOfHanoi.py:return :towerOfHanoi: None
