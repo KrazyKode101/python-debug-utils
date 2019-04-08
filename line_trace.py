@@ -19,10 +19,10 @@ def print_coverage():
 	output = open('line_trace.txt','w')
 	for filename in coverage.keys():
 		lines = open(filename,'r').readlines()
-		count = 1
+		line_no = 1
 		for line in lines:
 			if count in coverage[filename]:
 				output.write('*'+line)
 			else:
 				output.write('  '+line)
-			count += 1
+			line_no += 1
