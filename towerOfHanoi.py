@@ -1,8 +1,0 @@
-def towerOfHanoi(noOfDisks, srcRod, auxRod, destRod):
-	if noOfDisks <= 0:
-		return
-
-	towerOfHanoi(noOfDisks-1, srcRod, destRod, auxRod)
-	print("Move %d from : %s to %s" % (noOfDisks, srcRod, destRod))
-	towerOfHanoi(noOfDisks-1, auxRod, srcRod, destRod)
-	return
